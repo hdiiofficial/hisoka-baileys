@@ -54,7 +54,7 @@ async function start() {
          creds: state.creds,
          keys: makeCacheableSignalKeyStore(state.keys, Pino({ level: "fatal" }).child({ level: "fatal" })),
       },
-      browser: ['Hisoka', 'Chrome', '1.0.0'], // Do not change options 2 and 3 carelessly
+      browser: ['ADINDA NATASYA', 'Chrome', '1.0.0'], // Do not change options 2 and 3 carelessly
       markOnlineOnConnect: true, // set false for offline
       generateHighQualityLinkPreview: true, // make high preview link
       getMessage: async (key) => {
