@@ -5,7 +5,7 @@
 
 // setting your list menu on here
 const menu = {
-   main: ["help", "speed", "owner", "sc", "ping", "quoted"],
+   main: ["help", "speed", "owner", "donasi", "ping", "quoted"],
    owner: ["eval", "exec", "mute", "public"],
    convert: ["sticker", "toimage"],
    group: ["hidetag", "add", "welcome", "leaving"],
