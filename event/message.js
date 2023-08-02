@@ -88,8 +88,8 @@ export default async function Message(hisoka, m, chatUpdate) {
                 hisoka.sendContact(m.from, config.options.owner, m)
             }
             break
-            case "sc": {
-                m.reply("https://github.com/DikaArdnt/Hisoka-Morou")
+            case "donasi": {
+                m.reply("https://trakteer.id/hdiiofficial/tip")
             }
             break
             case "ping": {
